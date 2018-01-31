@@ -1,1 +1,2 @@
-# VM-s
+# VMs
+Images of documented exploitable VMs
